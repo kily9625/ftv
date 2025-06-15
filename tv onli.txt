@@ -50,6 +50,14 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a
 
 
 deportes
+#EXTINF:0 group-title="Conect Deportes" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",DIRECTV
+http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
+#EXTINF:0 group-title="Conect Deportes" tvg-name="DSPORTS ECUADOR" tvg-logo="https://logo.iptveditor.com/dsports.png" cuid="5488",DSPORTS ECUADOR
+http://novabox.club/live/conectStreax/K2tbMNebMW/402218.m3u8
+#EXTINF:0 group-title="Conect Deportes" tvg-name="GOL TV ECUADOR OP1" tvg-logo="https://logo.iptveditor.com/goltv.png" cuid="5489",GOL TV ECUADOR OP1
+http://novabox.club/live/conectStreax/K2tbMNebMW/402219.m3u8
+#EXTINF:0 group-title="Conect Deportes" tvg-name="AR | DIRECTV SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/directvsports2.png" cuid="5501",AR | DIRECTV SPORTS 2 FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
 
 #EXTINF:0 group-title="Deportes" tvg-name="ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" cuid="723",ESPN HD
 http://200.55.244.75:8000/play/a05a/index.m3u8
